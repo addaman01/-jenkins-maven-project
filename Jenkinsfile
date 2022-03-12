@@ -1,3 +1,4 @@
+echo "# JenkinsPipelineDemo" >>  README.md
 pipeline {
     agent any
     stages {
